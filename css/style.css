@@ -9,17 +9,18 @@ body {
     background: url(../img/l.png) bottom right / 50px repeat-x;
     padding-right: 1600px;
 }
+.lol {
+    height: 760px;
+    padding-left: 1300px;
+    background: url(../img/bg-1.jpg) center / 600px no-repeat,
+                url(../img/5.png) bottom left  / 50px repeat-y,
+                url(../img/6.png) bottom right / 50px repeat-y;    
+}
 .grass {
     height: 90px;
     width: 300px;
     background: url(../img/g.png) bottom right / 200px repeat-x;
     padding-right: 1600px;
 }
-.lol {
-    height: 752px;
-    width: 80px;
-    background: url(../img/5.png) bottom left / 50px repeat-y,
-                url(../img/6.png)bottom right / 50px repeat-y;
-                width: 1700px;
-padding-left: 200px;
-}
+                
+   
